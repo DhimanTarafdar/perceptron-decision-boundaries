@@ -25,14 +25,6 @@ $$w_1x_1 + w_2x_2 + b = 0$$
 যখন মডেল ভুল প্রেডিকশন করে, তখন আমরা এই সূত্রটি ব্যবহার করি:
 - **New Weight:** $w_{new} = w_{old} + \eta(t - y)x$
 - **New Bias:** $b_{new} = b_{old} + \eta(t - y)$
-
----
-
-## Why this Repository?
-- **Step-by-Step Explanations:** প্রতিটি বিষয় এমনভাবে ব্যাখ্যা করা হয়েছে যেন একজন শিক্ষার্থী সহজে বুঝতে পারে।
-- **Hand-written Style Math:** গাণিতিক সমস্যাগুলো ধাপে ধাপে সমাধান করা হয়েছে।
-- **Visual Insights:** ডিসিশন বাউন্ডারি কীভাবে ঘোরে বা সরে যায় তার গভীর ব্যাখ্যা।
-
 ---
 
 ## Project Structure
