@@ -1,10 +1,10 @@
-# 🧠 Perceptron & Decision Boundary Mastery
+# Perceptron & Decision Boundary Mastery
 
 এই রিপোজিটরিটিতে মেশিন লার্নিংয়ের অত্যন্ত মৌলিক বিষয় **Perceptron** এবং **Decision Boundary** নিয়ে বিস্তারিত আলোচনা এবং গাণিতিক সমস্যার সমাধান দেওয়া হয়েছে। এটি মূলত বাংলায় সহজভাবে লিনিয়ার ক্লাসিফিকেশন বোঝার একটি গাইড।
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 এই রিপোজিটরিটিতে আমরা নিচের বিষয়গুলো বিস্তারিতভাবে আলোচনা করেছি:
 
 - **Perceptron Fundamentals:** পারসেপট্রনের সংজ্ঞা এবং এটি কীভাবে কাজ করে।
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Key Concepts Recap
+## Key Concepts Recap
 
 ### 1. Decision Boundary Equation
 ২-ডি স্পেসে একটি পারসেপট্রনের ডিসিশন বাউন্ডারি হলো:
@@ -28,14 +28,14 @@ $$w_1x_1 + w_2x_2 + b = 0$$
 
 ---
 
-## 🚀 Why this Repository?
+## Why this Repository?
 - **Step-by-Step Explanations:** প্রতিটি বিষয় এমনভাবে ব্যাখ্যা করা হয়েছে যেন একজন শিক্ষার্থী সহজে বুঝতে পারে।
 - **Hand-written Style Math:** গাণিতিক সমস্যাগুলো ধাপে ধাপে সমাধান করা হয়েছে।
 - **Visual Insights:** ডিসিশন বাউন্ডারি কীভাবে ঘোরে বা সরে যায় তার গভীর ব্যাখ্যা।
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `Concepts/`: পারসেপট্রনের থিওরিটিক্যাল আলোচনা।
 - `Practice_Problems/`: ওয়েট এবং বায়াস আপডেটের গাণিতিক উদাহরণ।
 - `Visualizations/`: ডিসিশন বাউন্ডারির প্রভাব সংক্রান্ত ব্যাখ্যা।
